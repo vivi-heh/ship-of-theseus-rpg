@@ -81,7 +81,7 @@ This game brings that thought experiment to life — will your ship remain the s
 ---
 
 ## Author
-
+**Author:**Vivanshi Merlin Keshav Paarth 
 **Project Title:** Ship of Theseus RPG  
 **Created with:** HTML, CSS, and Vanilla JavaScript  
 **Concept Focus:** Philosophical thought experiment through interactive simulation.
